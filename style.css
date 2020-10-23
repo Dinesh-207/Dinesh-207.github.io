@@ -35,7 +35,7 @@
 
 .soc li{display:inline-block; padding-left: 20px;margin-top: 50px; color:black;font-size: 20px;}
 .soc li i{color:white;}
-.soc li i:hover{color:black;}
+.soc li i:hover{color:rgb(224, 228, 25);}
 .background1{
     background-color:grey;
     background-repeat: repeat;
